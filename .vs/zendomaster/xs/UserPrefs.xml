@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A9339EE7-AAB6-8F7C-0BB3-162856978C8D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GroupWatcher.cs">
+    <Files>
+      <File FileName="Assets/Color Mandala Generator/Scripts/DrawPixel.cs" Line="133" Column="37" />
+      <File FileName="Assets/GroupWatcher.cs" Line="79" Column="28" />
+      <File FileName="Assets/ProfileImages.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

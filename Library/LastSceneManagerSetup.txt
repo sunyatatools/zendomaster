@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Color Mandala Generator/Scene/MainDemo.unity
+  isLoaded: 1
+  isActive: 1
